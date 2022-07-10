@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardHelper.Base", "CreditCardHelper.Base\CreditCardHelper.Base.csproj", "{8101DAAB-4CD8-44FD-BF21-89AE1F5EB9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardHelper.Testes", "CreditCardHelper.Testes\CreditCardHelper.Testes.csproj", "{818754DC-AB9F-4F64-921B-BD919457763F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8101DAAB-4CD8-44FD-BF21-89AE1F5EB9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8101DAAB-4CD8-44FD-BF21-89AE1F5EB9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8101DAAB-4CD8-44FD-BF21-89AE1F5EB9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8101DAAB-4CD8-44FD-BF21-89AE1F5EB9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818754DC-AB9F-4F64-921B-BD919457763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818754DC-AB9F-4F64-921B-BD919457763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818754DC-AB9F-4F64-921B-BD919457763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818754DC-AB9F-4F64-921B-BD919457763F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77954C8-0208-4C7F-9524-D1C9C2750B0B}
+	EndGlobalSection
+EndGlobal
